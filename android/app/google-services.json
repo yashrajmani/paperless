@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "38749637203",
+    "project_id": "paperless-8237c",
+    "storage_bucket": "paperless-8237c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38749637203:android:fba03433cf90bfc3fa14a6",
+        "android_client_info": {
+          "package_name": "com.yash.paperless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38749637203-sch4ba124f1vu4r69eed3t5su17us3hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3z9-3AuZtDts9If6lEliSkuGX-J3i_zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38749637203-sch4ba124f1vu4r69eed3t5su17us3hm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
